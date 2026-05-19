@@ -1,0 +1,10 @@
+stages:
+  - client_build
+  - client_deploy
+  - client_cleanup
+  - server_prepare
+  - server_deploy
+
+include:
+  - local: "client/.gitlab-ci.yml"
+  - local: "server/.gitlab-ci.yml"

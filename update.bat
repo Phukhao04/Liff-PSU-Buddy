@@ -1,0 +1,1 @@
+npm install -g npm-check-updates && ncu -u && npm install && cd client && ncu -u && npm install && cd .. && cd server && ncu -u && npm install && cd ..

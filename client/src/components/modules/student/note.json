@@ -1,0 +1,740 @@
+{
+  "activity": {
+    "_id": "69659bbb55046b0f3f8d47bb",
+    "title": {
+      "en": "PSU Next Move",
+      "th": "ขอเชิญนักศึกษาเข้าร่วมโครงการ PSU Next Move : ก้าวต่อไปของไทยในมือคนรุ่นใหม่",
+      "_id": "69659bbb55046b0f3f8d47bc"
+    },
+    "isPublish": true,
+    "img": "assets/uploads/events/info-รณรงค์เลือกตั้ง.png",
+    "campus": "01",
+    "organization": {
+      "_id": "64cf3910981294a9bf4bda55",
+      "name": {
+        "en": "SDA",
+        "th": "กองพัฒนานักศึกษาและศิษย์เก่าสัมพันธ์ วิทยาเขตหาดใหญ่"
+      },
+      "campus": "01",
+      "fac": null,
+      "createdBy": "64c62d4c706e0f7dbd19be2b",
+      "updatedBy": null,
+      "createdAt": "2023-08-06T06:09:20.663Z",
+      "updatedAt": "2023-08-06T06:09:20.663Z",
+      "__v": 0
+    },
+    "club": {
+      "_id": "64cf3a06efae0bb2e935d4b1",
+      "name": {
+        "en": "Student Development ",
+        "th": "งานพัฒนานักศึกษา"
+      },
+      "organization": "64cf3910981294a9bf4bda55",
+      "createdBy": "64cf392b981294a9bf4bda65",
+      "updatedBy": "64c62d4c706e0f7dbd19be2b",
+      "createdAt": "2023-08-06T06:13:26.449Z",
+      "updatedAt": "2023-08-06T06:13:26.449Z",
+      "__v": 0
+    },
+    "category": 1,
+    "isOutside": false,
+    "outside": {
+      "en": "",
+      "th": "",
+      "_id": "69659bbb55046b0f3f8d47bd"
+    },
+    "term": 2,
+    "year": 2025,
+    "projectType": 2,
+    "rationale": {
+      "en": "",
+      "th": "มหาวิทยาลัยสงขลานครินทร์ ในฐานะสถาบันทางการศึกษา ได้เล็งเห็นความสำคัญบทบาทของประชาชนและนักศึกษากับการมีส่วนร่วมทางการเมืองการปกครองระบอบประชาธิปไตย จึงจัดโครงการ PSU Next Move : ก้าวต่อไปของไทยในมือคนรุ่นใหม่ นี้ขึ้นในลักษณะเวทีสาธารณะเพื่อให้มีการรับฟังวิสัยทัศน์และร่วมแลกเปลี่ยนข้อมูลเชิงนโยบายพรรคการเมืองที่เกี่ยวข้องกับด้านการศึกษาและการส่งเสริมการมีงานทำ ควบคู่กับกิจกรรมส่งเสริมการใช้สิทธิเลือกตั้งอย่างมีคุณภาพ ภายใต้กรอบกฎหมายและระเบียบของคณะกรรมการการเลือกตั้ง เพื่อส่งเสริมการเรียนรู้ประชาธิปไตยและการตระหนักถึงความสำคัญของการออกมาใช้สิทธิเลือกตั้งอย่างอิสระ และการมีส่วนร่วมทางการเมืองอย่างเป็นกลางและสร้างสรรค์",
+      "_id": "69659bbb55046b0f3f8d47be"
+    },
+    "objectives": [
+      {
+        "en": "",
+        "th": "เพื่อสร้างพื้นที่เวทีกลางในการร่วมแลกเปลี่ยนอภิปรายนโยบายพรรคการเมืองด้านการศึกษาและการส่งเสริมการมีงานทำ",
+        "_id": "69659bbb55046b0f3f8d47bf"
+      },
+      {
+        "en": "",
+        "th": "เพื่อส่งเสริมความรู้ ความเข้าใจเชิงนโยบายแก่ประชาชนและนักศึกษา เพื่อใช้ข้อมูลเป็นพื้นฐานในการตัดสินใจเลือกผู้สมัครสมาชิกสภาผู้แทนราษฎร ก่อนการเลือกตั้งปี 2569",
+        "_id": "69659bbb55046b0f3f8d47c0"
+      },
+      {
+        "en": "",
+        "th": "เพื่อรณรงค์ให้ประชาชนและนักศึกษา ตระหนักถึงความสำคัญของการออกมาใช้สิทธิเลือกตั้ง และการมีส่วนร่วมทางการเมืองอย่างเป็นกลางและสร้างสรรค์",
+        "_id": "69659bbb55046b0f3f8d47c1"
+      }
+    ],
+    "procedures": [
+      {
+        "en": "",
+        "th": "เวทีอภิปรายเสวนานโยบายพรรคการเมือง",
+        "_id": "69659bbb55046b0f3f8d47c2"
+      },
+      {
+        "en": "",
+        "th": "กิจกรรมส่งเสริมและรณรงค์การใช้สิทธิเลือกตั้ง",
+        "_id": "69659bbb55046b0f3f8d47c3"
+      }
+    ],
+    "start": "2026-01-22T00:00:00.000Z",
+    "end": "2026-01-22T00:00:00.000Z",
+    "place": {
+      "en": "Prince of Songkla University",
+      "th": "อาคารกิจกรรมนักศึกษา",
+      "_id": "69659bbb55046b0f3f8d47c4"
+    },
+    "address": {
+      "_id": "62e4a73fe82994af3340a212",
+      "amphure": {
+        "en": "Hat Yai",
+        "th": "หาดใหญ่"
+      },
+      "geography": {
+        "en": "Southern",
+        "th": "ภาคใต้"
+      },
+      "postal": 90110,
+      "province": {
+        "en": "Songkhla",
+        "th": "สงขลา"
+      },
+      "district": {
+        "en": "Kho Hong",
+        "th": "คอหงส์"
+      }
+    },
+    "budgeting": {
+      "total": 95000,
+      "budgets": [
+        {
+          "id": 4,
+          "amount": 95000,
+          "_id": "69659bbb55046b0f3f8d47c5"
+        }
+      ],
+      "supports": []
+    },
+    "sdgs": [4, 10, 8],
+    "iwises": [2],
+    "disaster": false,
+    "psuOneFamily": false,
+    "hour": {
+      "title": "electives",
+      "total": 3,
+      "competencies": [0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "electives": [0, 3, 0, 0, 0, 0, 0]
+    },
+    "pictures": [],
+    "scan": {
+      "isOpen": true,
+      "open": "2026-01-22T13:00:00.000Z",
+      "close": "2026-01-22T14:00:00.000Z",
+      "location": [7.011451958488125, 100.49963713439648],
+      "radius": 50,
+      "updatedAt": "2026-01-13T02:47:03.008Z",
+      "updatedBy": "64cf392b981294a9bf4bda65",
+      "_id": "6965b22755046b0f3fdf8e58"
+    },
+    "evaluation": {
+      "isOpen": true,
+      "open": "2026-01-22T13:00:00.000Z",
+      "close": "2026-01-22T14:30:00.000Z",
+      "sections": [
+        {
+          "title": {
+            "th": "ความคิดเห็นจากผู้เข้าร่วมโครงการ",
+            "en": "Participant Feedback"
+          },
+          "topics": [
+            {
+              "title": {
+                "th": "ความคิดเห็นจากผู้เข้าร่วมโครงการ",
+                "en": "Participant Feedback"
+              },
+              "isObjective": false,
+              "questions": [
+                {
+                  "_id": "6965aade55046b0f3fb8c9ea",
+                  "label": {
+                    "th": "นักศึกษาได้รับข้อมูลเกี่ยวกับโครงการอย่างชัดเจนก่อนเข้าร่วม",
+                    "en": "Students received clear information about the project before participating"
+                  },
+                  "type": "rating",
+                  "options": {
+                    "min": 1,
+                    "max": 5
+                  },
+                  "hasOther": false,
+                  "required": true
+                },
+                {
+                  "_id": "6965aade55046b0f3fb8c9eb",
+                  "label": {
+                    "th": "นักศึกษาสามารถเข้าร่วมกิจกรรมได้สะดวก และตรงตามความสนใจ",
+                    "en": "Students were able to participate in activities conveniently and according to their interests"
+                  },
+                  "type": "rating",
+                  "options": {
+                    "min": 1,
+                    "max": 5
+                  },
+                  "hasOther": false,
+                  "required": true
+                },
+                {
+                  "_id": "6965aade55046b0f3fb8c9ec",
+                  "label": {
+                    "th": "นักศึกษารู้สึกมีส่วนร่วมในกิจกรรมที่จัดขึ้น",
+                    "en": "Students felt involved in the activities organized"
+                  },
+                  "type": "rating",
+                  "options": {
+                    "min": 1,
+                    "max": 5
+                  },
+                  "hasOther": false,
+                  "required": true
+                },
+                {
+                  "_id": "6965aade55046b0f3fb8c9ed",
+                  "label": {
+                    "th": "รูปแบบเนื้อหากิจกรรมเหมาะสมกับผู้เข้าร่วมโครงการ",
+                    "en": "The content format of the activities was appropriate for the participants"
+                  },
+                  "type": "rating",
+                  "options": {
+                    "min": 1,
+                    "max": 5
+                  },
+                  "hasOther": false,
+                  "required": true
+                }
+              ],
+              "_id": "6965aa3f55046b0f3fa2a784"
+            }
+          ],
+          "_id": "6965aa3f55046b0f3fa2a783"
+        },
+        {
+          "title": {
+            "th": "ความคิดเห็นเกี่ยวกับการบรรลุวัตถุประสงค์ของโครงการ",
+            "en": "Feedback on Achieving Project Objectives"
+          },
+          "topics": [
+            {
+              "title": {
+                "th": "ความคิดเห็นเกี่ยวกับการบรรลุวัตถุประสงค์ของโครงการ",
+                "en": "Feedback on Achieving Project Objectives"
+              },
+              "isObjective": false,
+              "questions": [
+                {
+                  "_id": "6965aade55046b0f3fb8c9f0",
+                  "label": {
+                    "th": "เพื่อสร้างพื้นที่เวทีกลางในการร่วมแลกเปลี่ยนอภิปรายนโยบายพรรคการเมืองด้านการศึกษาและการส่งเสริมการมีงานทำ",
+                    "en": ""
+                  },
+                  "type": "rating",
+                  "options": {
+                    "min": 1,
+                    "max": 5
+                  },
+                  "hasOther": false,
+                  "required": true
+                },
+                {
+                  "_id": "6965aade55046b0f3fb8c9f1",
+                  "label": {
+                    "th": "เพื่อส่งเสริมความรู้ ความเข้าใจเชิงนโยบายแก่ประชาชนและนักศึกษา เพื่อใช้ข้อมูลเป็นพื้นฐานในการตัดสินใจเลือกผู้สมัครสมาชิกสภาผู้แทนราษฎร ก่อนการเลือกตั้งปี 2569",
+                    "en": ""
+                  },
+                  "type": "rating",
+                  "options": {
+                    "min": 1,
+                    "max": 5
+                  },
+                  "hasOther": false,
+                  "required": true
+                },
+                {
+                  "_id": "6965aade55046b0f3fb8c9f2",
+                  "label": {
+                    "th": "เพื่อรณรงค์ให้ประชาชนและนักศึกษา ตระหนักถึงความสำคัญของการออกมาใช้สิทธิเลือกตั้ง และการมีส่วนร่วมทางการเมืองอย่างเป็นกลางและสร้างสรรค์",
+                    "en": ""
+                  },
+                  "type": "rating",
+                  "options": {
+                    "min": 1,
+                    "max": 5
+                  },
+                  "hasOther": false,
+                  "required": true
+                }
+              ],
+              "_id": "6965aa3f55046b0f3fa2a786"
+            }
+          ],
+          "_id": "6965aa3f55046b0f3fa2a785"
+        },
+        {
+          "title": {
+            "th": "การได้รับการพัฒนาสมรรถนะ",
+            "en": "Competency Development"
+          },
+          "topics": [
+            {
+              "title": {
+                "th": "ด้านที่ 1 สมรรถนะด้านอารมณ์ 1.1 คุณธรรม",
+                "en": "Emotional Competency 1.1: Integrity"
+              },
+              "isObjective": false,
+              "questions": [
+                {
+                  "_id": "6965aade55046b0f3fb8c9f5",
+                  "label": {
+                    "th": "กิจกรรมนี้ช่วยให้ฉันปฏิบัติตนด้วยความซื่อสัตย์และรับผิดชอบในหน้าที่ของตน",
+                    "en": "This activity helped me act with honesty and responsibility in my duties"
+                  },
+                  "type": "rating",
+                  "options": {
+                    "min": 1,
+                    "max": 5
+                  },
+                  "hasOther": false,
+                  "required": true
+                },
+                {
+                  "_id": "6965aade55046b0f3fb8c9f6",
+                  "label": {
+                    "th": "กิจกรรมนี้ช่วยให้ฉันมีจิตสำนึกที่ดีในการแยกแยะสิ่งที่ควรทำและไม่ควรทำ",
+                    "en": "This activity helped me develop a good sense of distinguishing right from wrong"
+                  },
+                  "type": "rating",
+                  "options": {
+                    "min": 1,
+                    "max": 5
+                  },
+                  "hasOther": false,
+                  "required": true
+                },
+                {
+                  "_id": "6965aade55046b0f3fb8c9f7",
+                  "label": {
+                    "th": "กิจกรรมนี้ช่วยให้ฉันสามารถยึดมั่นในหลักคุณธรรม แม้ในสถานการณ์ที่มีแรงกดดัน",
+                    "en": "This activity helped me adhere to moral principles even under pressure"
+                  },
+                  "type": "rating",
+                  "options": {
+                    "min": 1,
+                    "max": 5
+                  },
+                  "hasOther": false,
+                  "required": true
+                }
+              ],
+              "_id": "6965aa3f55046b0f3fa2a788"
+            },
+            {
+              "title": {
+                "th": "ด้านที่ 2 สมรรถนะด้านสังคม 2.2 ภาวะผู้นำ",
+                "en": "Social Competency 2.2: Leadership"
+              },
+              "isObjective": false,
+              "questions": [
+                {
+                  "_id": "6965aade55046b0f3fb8c9f9",
+                  "label": {
+                    "th": "กิจกรรมนี้ช่วยให้ฉันกล้าแสดงออกทางความคิดอย่างเหมาะสม",
+                    "en": "This activity helped me express my ideas appropriately"
+                  },
+                  "type": "rating",
+                  "options": {
+                    "min": 1,
+                    "max": 5
+                  },
+                  "hasOther": false,
+                  "required": true
+                },
+                {
+                  "_id": "6965aade55046b0f3fb8c9fa",
+                  "label": {
+                    "th": "กิจกรรมนี้ช่วยให้ฉันสามารถกระตุ้นและชักชวนผู้อื่นให้ร่วมมือกันทำกิจกรรม",
+                    "en": "This activity helped me motivate and encourage others to cooperate in activities"
+                  },
+                  "type": "rating",
+                  "options": {
+                    "min": 1,
+                    "max": 5
+                  },
+                  "hasOther": false,
+                  "required": true
+                },
+                {
+                  "_id": "6965aade55046b0f3fb8c9fb",
+                  "label": {
+                    "th": "กิจกรรมนี้ช่วยให้ฉันสามารถจัดการปัญหาและตัดสินใจในสถานการณ์ที่ซับซ้อนได้",
+                    "en": "This activity helped me manage problems and make decisions in complex situations"
+                  },
+                  "type": "rating",
+                  "options": {
+                    "min": 1,
+                    "max": 5
+                  },
+                  "hasOther": false,
+                  "required": true
+                }
+              ],
+              "_id": "6965aa3f55046b0f3fa2a78b"
+            },
+            {
+              "title": {
+                "th": "ด้านที่ 3 สมรรถนะด้าน 3.2 การเป็นพลเมืองที่ดี",
+                "en": "Global Competency 3.2: Civic Literacy"
+              },
+              "isObjective": false,
+              "questions": [
+                {
+                  "_id": "6965aade55046b0f3fb8c9fd",
+                  "label": {
+                    "th": "กิจกรรมนี้ช่วยให้ฉันมีความรู้และความเข้าใจเกี่ยวกับสิทธิ หน้าที่ และบทบาทของพลเมือง",
+                    "en": "This activity helped me gain knowledge and understanding about the rights, duties, and roles of citizens"
+                  },
+                  "type": "rating",
+                  "options": {
+                    "min": 1,
+                    "max": 5
+                  },
+                  "hasOther": false,
+                  "required": true
+                },
+                {
+                  "_id": "6965aade55046b0f3fb8c9fe",
+                  "label": {
+                    "th": "กิจกรรมนี้ช่วยให้ฉันมีส่วนร่วมในกิจกรรมหรือการแสดงออกที่สนับสนุนประชาธิปไตยและสันติวิธี",
+                    "en": "This activity helped me participate in activities or expressions that support democracy and peaceful methods"
+                  },
+                  "type": "rating",
+                  "options": {
+                    "min": 1,
+                    "max": 5
+                  },
+                  "hasOther": false,
+                  "required": true
+                },
+                {
+                  "_id": "6965aade55046b0f3fb8c9ff",
+                  "label": {
+                    "th": "กิจกรรมนี้ช่วยให้ฉันรับผิดชอบต่อสังคมและสิ่งแวดล้อมในฐานะพลเมืองโลก",
+                    "en": "This activity helped me take responsibility for society and the environment as a global citizen"
+                  },
+                  "type": "rating",
+                  "options": {
+                    "min": 1,
+                    "max": 5
+                  },
+                  "hasOther": false,
+                  "required": true
+                }
+              ],
+              "_id": "6965aa3f55046b0f3fa2a78d"
+            }
+          ],
+          "_id": "6965aa3f55046b0f3fa2a787"
+        },
+        {
+          "title": {
+            "th": "ความคิดเห็นหรือข้อเสนอแนะที่เกี่ยวข้องกับการจัดโครงการ",
+            "en": "Suggestions and Feedback Related to Project Organization"
+          },
+          "topics": [
+            {
+              "title": {
+                "th": "ความคิดเห็นเกี่ยวกับการบริหารจัดการโครงการ",
+                "en": "Feedback on Project Management"
+              },
+              "isObjective": false,
+              "questions": [
+                {
+                  "_id": "6965aade55046b0f3fb8ca02",
+                  "label": {
+                    "th": "การประชาสัมพันธ์โครงการชัดเจนและครอบคลุมกลุ่มเป้าหมาย",
+                    "en": "Project publicity was clear and covered the target group"
+                  },
+                  "type": "rating",
+                  "options": {
+                    "min": 1,
+                    "max": 5
+                  },
+                  "hasOther": false,
+                  "required": true
+                },
+                {
+                  "_id": "6965aade55046b0f3fb8ca03",
+                  "label": {
+                    "th": "การจัดกิจกรรมเป็นไปตามกำหนดการและเหมาะสมกับเวลา",
+                    "en": "Activities were organized according to schedule and were timely"
+                  },
+                  "type": "rating",
+                  "options": {
+                    "min": 1,
+                    "max": 5
+                  },
+                  "hasOther": false,
+                  "required": true
+                },
+                {
+                  "_id": "6965aade55046b0f3fb8ca04",
+                  "label": {
+                    "th": "วิทยากรมีความเชี่ยวชาญและถ่ายทอดความรู้ได้ดี",
+                    "en": "Speakers were knowledgeable and conveyed information well"
+                  },
+                  "type": "rating",
+                  "options": {
+                    "min": 1,
+                    "max": 5
+                  },
+                  "hasOther": false,
+                  "required": true
+                },
+                {
+                  "_id": "6965aade55046b0f3fb8ca05",
+                  "label": {
+                    "th": "สถานที่ อุปกรณ์ และการอำนวยความสะดวกมีความเหมาะสม",
+                    "en": "Venue, equipment, and facilities were appropriate"
+                  },
+                  "type": "rating",
+                  "options": {
+                    "min": 1,
+                    "max": 5
+                  },
+                  "hasOther": false,
+                  "required": true
+                },
+                {
+                  "_id": "6965aade55046b0f3fb8ca06",
+                  "label": {
+                    "th": "ผู้จัดกิจกรรมหรือเจ้าหน้าที่ให้ความช่วยเหลือและอำนวยความสะดวกเป็นอย่างดี",
+                    "en": "Organizers or staff provided good assistance and facilitation"
+                  },
+                  "type": "rating",
+                  "options": {
+                    "min": 1,
+                    "max": 5
+                  },
+                  "hasOther": false,
+                  "required": true
+                }
+              ],
+              "_id": "6965aa3f55046b0f3fa2a78f"
+            },
+            {
+              "title": {
+                "th": "ความพึงพอใจโดยรวมจากการเข้าร่วมโครงการ/กิจกรรม",
+                "en": "Overall Satisfaction from Participating in the Project/Activity"
+              },
+              "isObjective": false,
+              "questions": [
+                {
+                  "_id": "6965aade55046b0f3fb8ca08",
+                  "label": {
+                    "th": "มีความพึงพอใจต่อภาพรวมของโครงการนี้",
+                    "en": "Overall satisfaction with this project"
+                  },
+                  "type": "rating",
+                  "options": {
+                    "min": 1,
+                    "max": 5
+                  },
+                  "hasOther": false,
+                  "required": true
+                }
+              ],
+              "_id": "6965aa3f55046b0f3fa2a790"
+            },
+            {
+              "title": {
+                "th": "นักศึกษามีความสนใจเข้าร่วมโครงการในลักษณะนี้อีกในอนาคต",
+                "en": "Students are interested in participating in similar projects in the future"
+              },
+              "isObjective": false,
+              "questions": [
+                {
+                  "_id": "6965aade55046b0f3fb8ca0a",
+                  "label": {
+                    "th": "นักศึกษามีความสนใจเข้าร่วมโครงการในลักษณะนี้อีกในอนาคต",
+                    "en": "Are you interested in participating in similar projects in the future?"
+                  },
+                  "type": "single_choice",
+                  "options": [
+                    {
+                      "th": "สนใจ",
+                      "en": "Interested"
+                    },
+                    {
+                      "th": "ไม่สนใจ",
+                      "en": "Not Interested"
+                    }
+                  ],
+                  "hasOther": true,
+                  "required": true
+                }
+              ],
+              "_id": "6965aa3f55046b0f3fa2a791"
+            },
+            {
+              "title": {
+                "th": "นักศึกษาจะแนะนำโครงการในลักษณะนี้ให้ผู้อื่นเข้าร่วม",
+                "en": "Students will recommend this type of project to others"
+              },
+              "isObjective": false,
+              "questions": [
+                {
+                  "_id": "6965aade55046b0f3fb8ca0c",
+                  "label": {
+                    "th": "นักศึกษาจะแนะนำโครงการในลักษณะนี้ให้ผู้อื่นเข้าร่วม",
+                    "en": "Will you recommend this type of project to others?"
+                  },
+                  "type": "single_choice",
+                  "options": [
+                    {
+                      "th": "ใช่",
+                      "en": "Yes"
+                    },
+                    {
+                      "th": "ไม่ใช่",
+                      "en": "No"
+                    }
+                  ],
+                  "hasOther": true,
+                  "required": true
+                }
+              ],
+              "_id": "6965aa3f55046b0f3fa2a792"
+            },
+            {
+              "title": {
+                "th": "ข้อเสนอแนะเพิ่มเติม",
+                "en": "Additional Suggestions"
+              },
+              "isObjective": false,
+              "questions": [
+                {
+                  "_id": "6965aade55046b0f3fb8ca0e",
+                  "label": {
+                    "th": "ข้อเสนอแนะเพิ่มเติม",
+                    "en": "Additional suggestions"
+                  },
+                  "type": "text",
+                  "hasOther": false,
+                  "required": true
+                }
+              ],
+              "_id": "6965aa3f55046b0f3fa2a793"
+            }
+          ],
+          "_id": "6965aa3f55046b0f3fa2a78e"
+        }
+      ],
+      "evaluation": "68b51cb7dd94314623160435",
+      "updatedAt": "2026-01-13T02:15:58.792Z",
+      "updatedBy": "64cf392b981294a9bf4bda65",
+      "_id": "6965aade55046b0f3fb8c9e7"
+    },
+    "proposal": null,
+    "createdBy": "64cf392b981294a9bf4bda65",
+    "updatedBy": "64cf392b981294a9bf4bda65",
+    "createdAt": "2026-01-13T01:11:23.139Z",
+    "updatedAt": "2026-01-13T07:52:18.255Z",
+    "__v": 0,
+    "registration": {
+      "isOpen": true,
+      "open": "2026-01-13T08:00:00.000Z",
+      "close": "2026-01-21T10:30:00.000Z",
+      "isLimit": true,
+      "valid": 600,
+      "waiting": 50,
+      "waiveDate": "2026-01-21T15:15:00.000Z",
+      "campuses": {
+        "01": [
+          "06",
+          "08",
+          "09",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "26",
+          "35",
+          "43",
+          "45",
+          "53",
+          "61",
+          "77",
+          "90"
+        ],
+        "02": [],
+        "03": [],
+        "04": [],
+        "05": []
+      },
+      "sexs": ["M", "F"],
+      "years": [1, 2, 3, 4, 5],
+      "nationalities": ["T", "F"],
+      "updatedAt": "2026-01-13T07:52:18.254Z",
+      "updatedBy": "64cf392b981294a9bf4bda65",
+      "_id": "69659ceb55046b0f3f8d47f8"
+    },
+    "registrants": 0,
+    "participants": 0,
+    "scanners": 0,
+    "evaluators": 0,
+    "registrantsNoCanceled": 0
+  },
+  "theUser": {
+    "psuId": "6010210252",
+    "psuType": "student",
+    "name": {
+      "th": "สัณหวัชร แก้วยะรัตน์",
+      "en": "Sanhawat Kaewyarat"
+    },
+    "campusId": "01",
+    "facId": "08",
+    "deptId": "140",
+    "campusName": {
+      "th": "วิทยาเขตหาดใหญ่",
+      "en": ""
+    },
+    "facName": {
+      "th": "คณะวิทยาศาสตร์",
+      "en": ""
+    },
+    "deptName": {
+      "th": "ภาควิชาวิทยาการคอมพิวเตอร์",
+      "en": ""
+    },
+    "studentId": "6010210252",
+    "titleName": "นาย",
+    "studNameThai": "สัณหวัชร",
+    "studSnameThai": "แก้วยะรัตน์",
+    "studNameEng": "SANHAWAT",
+    "studSnameEng": "KAEWYARAT",
+    "yearStatus": "4",
+    "nationality": "T",
+    "majorId": "0344",
+    "majorNameThai": "วิทยาการคอมพิวเตอร์",
+    "deptNameThai": "ภาควิชาวิทยาการคอมพิวเตอร์",
+    "facNameThai": "คณะวิทยาศาสตร์",
+    "campusNameThai": "วิทยาเขตหาดใหญ่",
+    "subMajorId": null,
+    "subMajorNameThai": null,
+    "minorId": null,
+    "minorNameThai": null,
+    "studyLevelName": "ปริญญาตรี",
+    "stillStudent": "N"
+  }
+}

@@ -1,0 +1,48 @@
+stages:
+  - server_prepare
+  - server_deploy
+
+variables:
+  service_deploy: "psubuddyliff"
+  deploy_server_directory: "/home/student/student-docker/node/psubuddyliff"
+  docker_compose_directory: "/home/student/student-docker"
+
+prepare_copy:
+  stage: server_prepare
+  script:
+    - cd server
+    - echo "Preparing files for deployment"
+    - rm -rf "${deploy_server_directory}/src"
+    - mkdir -p "${deploy_server_directory}/src"
+    - rm -rf "${deploy_server_directory}/apidoc"
+    - mkdir -p "${deploy_server_directory}/apidoc"
+    - echo "Copying source files to deployment directory"
+    - cp -r ./src/. "${deploy_server_directory}/src"
+    - cp -r ./apidoc/. "${deploy_server_directory}/apidoc"
+    - echo "Removed index.js if it existed"
+    - rm -f "${deploy_server_directory}/index.js"
+    - cp ./index.js "${deploy_server_directory}/index.js"
+    - echo "Copy package.json"
+    - cp ./package.json "${deploy_server_directory}/package.json"
+    - echo "Copy env files"
+    - cp ./production.env "${deploy_server_directory}/production.env"
+    - echo "copy dockerfile"
+    - cp ./Dockerfile "${deploy_server_directory}/Dockerfile"
+    - echo "Files prepared successfully"
+  only:
+    - main
+  tags:
+    - shell_student
+
+deploy_docker_compose:
+  stage: server_deploy
+  script:
+    - cd ${docker_compose_directory}
+    - echo "Starting deployment with Docker Compose"
+    - docker compose down ${service_deploy}
+    - docker compose up -d --build ${service_deploy}
+    - echo "Deployment completed successfully"
+  only:
+    - main
+  tags:
+    - shell_student

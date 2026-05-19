@@ -1,0 +1,23 @@
+meta {
+  name: getEvents
+  type: http
+  seq: 1
+}
+
+get {
+  url: https://transcript.psu.ac.th/transcript_api/events?find={"campus":"01","start":{"$gte":"2026-01-13T00:00:00.000Z"},"end":{"$lte":"2026-02-08T00:00:00.000Z"},"category":{"$in":[1,null]}}&populate[]=organization&populate[]=club&populate[]=address
+  body: none
+  auth: inherit
+}
+
+params:query {
+  find: {"campus":"01","start":{"$gte":"2026-01-13T00:00:00.000Z"},"end":{"$lte":"2026-02-08T00:00:00.000Z"},"category":{"$in":[1,null]}}
+  populate[]: organization
+  populate[]: club
+  populate[]: address
+}
+
+settings {
+  encodeUrl: true
+  timeout: 0
+}

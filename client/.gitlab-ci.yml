@@ -1,0 +1,49 @@
+stages:
+  - client_build
+  - client_deploy
+  - client_cleanup
+variables:
+  deploy_client_directory: /home/student/student-docker/www/psubuddyliff
+
+build_client:
+  stage: client_build
+  tags:
+    - shell_student
+  script:
+    - cd client
+    - echo "Installing dependencies"
+    - docker compose run --rm npm install
+    - echo "Building the application"
+    - docker compose run --rm npm run build
+    - echo "Application built successfully"
+  only:
+    - main
+  artifacts:
+    paths:
+      - client/dist/
+    expire_in: 1 hour
+
+deploy_client:
+  stage: client_deploy
+  tags:
+    - shell_student
+  script:
+    - cd client
+    - echo "Deploying the application"
+    - rm -rf "${deploy_client_directory}"
+    - mkdir -p "${deploy_client_directory}"
+    - cp -r ./dist/. "${deploy_client_directory}"
+    - echo "Application deployed successfully"
+  only:
+    - main
+
+cleanup_client:
+  stage: client_cleanup
+  tags:
+    - shell_student
+  script:
+    - cd client
+    - echo "Cleaning up old artifacts"
+    - rm -rf ./dist
+  only:
+    - main
